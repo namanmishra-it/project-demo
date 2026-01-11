@@ -1,4 +1,4 @@
 # project-demo
 My first Demo Project
 <br>
-Author: Naman Mishra
+Author: Naman Mishra [IT]
